@@ -8,7 +8,7 @@ begin
     gemspec.homepage = "http://github.com/ryana/less_simple"
     gemspec.authors = ["Ryan Angilly"]
 
-    gemspec.add_dependency 'active_support', '2.3.5'
+    gemspec.add_dependency 'activesupport', '2.3.5'
 
     gemspec.add_development_dependency 'shoulda', '2.11.0'
     gemspec.add_development_dependency 'mocha', '0.9.8'
