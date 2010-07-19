@@ -15,6 +15,20 @@ Gem::Specification.new do |s|
   s.extra_rdoc_files = [
     "README"
   ]
+  s.files = [
+    ".gitignore",
+     "MIT-LICENSE",
+     "README",
+     "Rakefile",
+     "VERSION",
+     "less_simple.gemspec",
+     "lib/less_simple.rb",
+     "test/functional/test_helper.rb",
+     "test/test_helper.rb",
+     "test/unit/en.yml",
+     "test/unit/test_helper.rb",
+     "test/unit/test_less_simple.rb"
+  ]
   s.homepage = %q{http://github.com/ryana/less_simple}
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
