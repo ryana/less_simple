@@ -1,4 +1,4 @@
-gem 'activesupport', '2.3.5'
+gem 'activesupport', '~> 2.3.5'
 require 'active_support/vendor'
 
 class LessSimple
